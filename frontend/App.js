@@ -7,7 +7,6 @@ import LoginScreen from './LoginScreen';
 import SignupScreen from './SignupScreen';
 import MathGameScreen from './MathGameScreen';
 import GameResultScreen from './GameResultScreen';
-
 const Stack = createStackNavigator();
 
 const App = () => {
