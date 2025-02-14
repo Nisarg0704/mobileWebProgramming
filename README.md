@@ -109,14 +109,3 @@ Updates the leaderboard.
     "leaders": ["string"]
   }
   ```
-
-## Contribution
-Feel free to fork this repository and submit pull requests to improve the project.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-### GitHub Comment
-"Initial commit of the Math Game App. Includes backend with Express.js, frontend with React Native, and basic user authentication, math game functionality, and leaderboard."
